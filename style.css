@@ -1,6 +1,15 @@
 h1{
     color: red;
 }
+
 h3{
     text-align: center;
+}
+
+body{
+    background-image:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fanimal%2Fbulldog&psig=AOvVaw0WvNnOEudu77y_sI_oksGj&ust=1674938765719000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLCkpaPP6PwCFQAAAAAdAAAAABAD");
+}
+
+h2{
+    color: blue;
 }

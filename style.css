@@ -1,5 +1,6 @@
 h1{
     color: red;
+    
 }
 
 h3{
@@ -8,6 +9,9 @@ h3{
 }
 
 body{
-    background-color: black;
+    background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.britannica.com%2F78%2F232778-050-D3701AB1%2FEnglish-bulldog-dog.jpg&imgrefurl=https%3A%2F%2Fwww.britannica.com%2Fanimal%2Fbulldog&tbnid=ZPqD9XFG1x1AVM&vet=12ahUKEwiu2IqV5ej8AhWUIt4AHZDoDnsQMygAegUIARDfAQ..i&docid=3cw6cnJU2SNNyM&w=1600&h=1184&q=bulldog&ved=2ahUKEwiu2IqV5ej8AhWUIt4AHZDoDnsQMygAegUIARDfAQ');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color: red;  
 }

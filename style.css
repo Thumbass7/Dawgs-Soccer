@@ -1,18 +1,30 @@
 h1{
     color: red;
+    text-align: center;
 }
 h2{
     text-align: center;
 }
-.center{
+
+.central {
     margin-left: auto;
     margin-right: auto;
-    padding: 20 px;
+    border: none;
+    width: 80%;
 }
 
-.border, th, td{
+.bott, .bott td, .bott tr, .bott th{
     border: 1px solid black;
     border-collapse: collapse;
     padding: 10px;
   }
+
+hr{
+    border-color: red;
+    border-style: dotted none none;
+    height: 0px;
+    border-width: 5px;
+}
+
+
 

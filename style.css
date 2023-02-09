@@ -11,5 +11,47 @@ body{
 }
 
 h2{
-    color: blue;
+    text-align: center;
 }
+
+.top-tabs{
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: rgb(255, 166, 166);
+}
+
+.top-tabs button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    width: 33%;
+}
+
+.top-tabs button:hover {
+    background-color: #ddd;
+}
+
+.central {
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    width: 80%;
+}
+
+.bott, .bott td, .bott tr, .bott th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+  }
+
+hr{
+    border-color: red;
+    border-style: dotted none none;
+    height: 0px;
+    border-width: 5px;
+}
+

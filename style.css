@@ -36,6 +36,7 @@ h2{
     margin-right: auto;
     border: none;
     width: 80%;
+    text-align: center;
 }
 
 .bott, .bott td, .bott tr, .bott th{

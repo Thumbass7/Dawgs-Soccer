@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1{
     color: red;
     
@@ -15,3 +16,71 @@ body{
     background-attachment: fixed;
     color: red;  
 }
+=======
+body{
+    background-color: rgb(52, 50, 50);
+    color: white;
+    margin: 0;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    margin-left: 1%;
+}
+
+.top-tabs{
+    overflow: hidden;
+    background-color: red;
+}
+
+.top-tabs button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    width: 33.33%;
+}
+
+.top-tabs button:hover {
+    background-color: #fd9d9d;
+}
+
+ol{
+    margin-left: 1%;
+}
+
+.central {
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    width: 80%;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.bott, .bott td, .bott tr, .bott th{
+    border: 3px solid white;
+    border-collapse: collapse;
+    padding: 10px;
+    margin-left: 1%;
+  }
+
+hr{
+    border-color: red;
+    border-style: solid;
+    background-color: red;
+    height: 3px;
+}
+
+>>>>>>> main

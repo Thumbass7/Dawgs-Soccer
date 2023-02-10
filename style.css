@@ -1,16 +1,24 @@
+body{
+    background-color: rgb(52, 50, 50);
+    color: white;
+    margin: 0;
+}
+
 h1{
     color: red;
 }
-
 
 h2{
     text-align: center;
 }
 
+h3{
+    margin-left: 1%;
+}
+
 .top-tabs{
     overflow: hidden;
-    border: 1px solid #ccc;
-    background-color: rgb(255, 166, 166);
+    background-color: red;
 }
 
 .top-tabs button {
@@ -25,7 +33,11 @@ h2{
 }
 
 .top-tabs button:hover {
-    background-color: #ddd;
+    background-color: #fd9d9d;
+}
+
+ol{
+    margin-left: 1%;
 }
 
 .central {
@@ -34,18 +46,21 @@ h2{
     border: none;
     width: 80%;
     text-align: center;
+    padding-top: 10px;
+
 }
 
 .bott, .bott td, .bott tr, .bott th{
-    border: 1px solid black;
+    border: 3px solid white;
     border-collapse: collapse;
     padding: 10px;
+    margin-left: 1%;
   }
 
 hr{
     border-color: red;
-    border-style: dotted none none;
-    height: 0px;
-    border-width: 5px;
+    border-style: solid;
+    background-color: red;
+    height: 3px;
 }
 

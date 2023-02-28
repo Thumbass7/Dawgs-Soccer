@@ -36,6 +36,10 @@ h3{
     background-color: #fd9d9d;
 }
 
+.preview{
+    width: 100%;
+}
+
 ol{
     margin-left: 1%;
 }

@@ -33,6 +33,8 @@ h3{
     background-color: #fd9d9d;
 }
 
+
+
 .preview{
     width: 100%;
 }
@@ -86,4 +88,36 @@ hr{
     background: white;
     padding: 1%;
     margin: 6% auto 0;
+}
+
+.abtpghd{
+    background: red;
+    text-align: center;
+    width: 100%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: 0;
+}
+
+.VAR{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(140, 140, 140);
+}
+
+.JV{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(90, 90, 90);
+}
+
+.JVB{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(140, 140, 140);
+}
+
+.pst{
+    font-size: 110%;
+    margin: 1%;
 }

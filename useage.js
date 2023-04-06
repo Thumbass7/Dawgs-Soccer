@@ -5,3 +5,7 @@ function Sch() {
 function CtPg() {
     window.open("contactus.html", "_blank");
 }
+
+function AbtUs() {
+    window.open("aboutus.html", "_blank");
+}
